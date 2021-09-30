@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# Anna Kakarala
 
-You can use the [editor on GitHub](https://github.com/akakarala/akakarala.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Interests
 ```markdown
-Syntax highlighted code block
+* Technology
+  * Databases
+  * Software Testing
+* Other
+  * History (Making it fun for learning)
+  * Education (Advancing currenty education practices)
+  * Reading (Getting children involved)
+  * Hands-on Learning 
+  * STEAM (Science, Technology, Engineering, Art, Music)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Education 
+```markdown
+* Bachelor of Arts from California State University Stanislaus in Liberal Studies (2012-2017)
+* Masters in Applied Computer Sciences from Grand Valley State University (Current)
+![STAN STATE Logo](https://images.squarespace-cdn.com/content/v1/57ace8946a49631344254da4/1476308972748-30ZO6SPA9SS91P26090Y/image-asset.png?format=1000w)
+![GVSU Logo](https://ethnicdiversity.org/wp-content/uploads/2020/03/gvsu-logo.png)
+```
 
-### Jekyll Themes
+### Technical Background
+```markdown 
+* Graduate level classes
+  * Java
+  * Software/System Development
+  * Networking
+  * Databases
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akakarala/akakarala.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Group Project
+```markdown
+* Link to group github site
+  *  https://lauren-vanderklok.github.io/GVSU-CIS641-Android-Game/
+* Project Description
+  * The goal of the project is to create an Android mobile game using Unity software and C# coding.
+  The goal of the game is to help the stranded alien find all of the missing pieces of its spaceship
+  so that it can return home. The player will need to navigate the 2D landscape, interact with various characters,
+  and solve riddles in order to succeed. The group will be using the Agile development method to complete the project. 
+  The sprints are spaced out in 2 week intervals, with the group members working to complete 10 story points per sprint. 
+```
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
